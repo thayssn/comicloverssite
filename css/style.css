@@ -933,14 +933,14 @@ h3 {
 @media (max-width: 767px) {
   /* line 70, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
   .header-area .main-header-area .logo-img img {
-    width: 70px;
+    width: 200px;
   }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 70, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
   .header-area .main-header-area .logo-img img {
-    width: 70px;
+    width: 200px;
   }
 }
 
